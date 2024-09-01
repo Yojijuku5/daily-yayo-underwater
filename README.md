@@ -1,4 +1,6 @@
 # daily yayo bot
+OUTDATED & DOESN'T WORK: Misskey must have updated their API, but for now (or ever probably) I'm not going to update it.
+
 うっうー！
 
 A simple program used for the bot account @daily_yayo on Misskey server 'misskey.io'. It uploads an image of Yayo from 'Puchimas!' everyday at a given time.
